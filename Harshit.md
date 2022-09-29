@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am harshit agarwal
-Branch CS-A
-ROLL no 57
+Branch = CS-A
+CLASS ROLL no = 57
 RTU ROLL NO.=21EARCS059
 
 <!--
